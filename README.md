@@ -1,4 +1,4 @@
-![logo]("https://github.com/kmajhi/CPP/blob/main/c%2B%2B%20banner.png")
+![logo](https://github.com/kmajhi/CPP/blob/main/c%2B%2B%20banner.png)
 <h1 align="center"> C++ </h1>
 <p align="left"><i>C++</i> is a high-level, general-purpose programming language that was developed as an extension of the C programming language. It was created by Bjarne Stroustrup at Bell Labs in 1983, and is widely used for developing software applications, operating systems, device drivers, video games, and other systems that require high performance and efficiency.
 
