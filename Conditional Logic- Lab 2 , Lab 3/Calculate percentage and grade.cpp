@@ -15,7 +15,7 @@ int main() {
     // Assign grade based on percentage
     char grade;
     if (percentage >= 90) {
-        grade = 'A';
+        grade = 'A'; 
     } else if (percentage >= 80) {
         grade = 'B';
     } else if (percentage >= 70) {
